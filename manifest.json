@@ -1,0 +1,10 @@
+{
+	"id": "quick-link-replace",
+	"name": "Quick Link Replace",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.12",
+	"description": "Insert quick links like &[number] or &[number]-[number] and click the button to replace them later. For example, replace &5 for [[file5.jpg]] ",
+	"author": "spaghetti_stack",
+	"authorUrl": "https://github.com/DavidR86/",
+	"isDesktopOnly": false
+}
